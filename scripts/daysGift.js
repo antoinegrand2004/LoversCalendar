@@ -21,7 +21,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<img src='./ressources/img/favourite.jpeg'><p>Ma photo préférée de tout les temps</p><h2>❤</h2>"
+        content: "<img src='./ressources/img/favorite.jpeg'><p>Ma photo préférée de tout les temps</p><h2>❤</h2>"
     },
     {
         type: 'question',
@@ -45,7 +45,7 @@ let DaysGifts = [
         type: 'question',
         questionContent: "<p>Quel est un plat que j'ai kiffé faire avec toi ?</p><p>Indice : tu as fait un BeReal où je te trouve juste sublime où on a cuisiné ce plat.</p>",
         choices: ['sushi', 'sushis'],
-        content: "<p>Bravo à toi mon ange !</p><p>Le cadeau d'aujourd'hui tu connais la chanson, prends en photo et sors moi ça quand tu veux.</p><img src='./ressources/img/beRealSushi.jpeg'><h2>Bon pour qu'on se cuisine des sushis en amoureux ❤</h2>"
+        content: "<p>Bravo à toi mon ange !</p><p>Le cadeau d'aujourd'hui tu connais la chanson, prends en photo et sors moi ça quand tu veux.</p><img src='./ressources/img/beReal.png'><h2>Bon pour qu'on se cuisine des sushis en amoureux ❤</h2>"
     },
     {
         type: 'text',
@@ -90,7 +90,7 @@ let DaysGifts = [
     {
         type: 'question',
         questionContent: "<h2>Question très facile pour aujourd'hui !</h2><p>Est-ce que tu saurais me dire où est-ce qu'on a pris cette photo ?</p><img src='./ressources/img/ballon.jpeg'>",
-        choices: ["ballon", "Alsace"],
+        choices: ["ballon", "alsace"],
         content: "<h1>Bravo à toi !</h1><p>Ce que je te propose c'est de prendre en photo le bon suivant !</p><p>(à n'utiliser que quand il y a de la neige bien sûr...)</p><img src='./ressources/img/raquette.jpg'><h2>Bon pour aller faire de la raquette au ballon d'Alsace ! ❤</h2>"
     },
     {
