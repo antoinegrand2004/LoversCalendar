@@ -13,7 +13,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<img src='./ressources/img/cute.jpeg'><p>La photo où je te trouve la plus cute</p><h2>❤</h2>"
+        content: "<img src='./ressources/img/cute.jpeg'><p>La photo où je te (nous) trouve la plus cute</p><h2>❤</h2>"
     },
     {
         type: 'text',
@@ -31,7 +31,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<p>Jour à trouver !</p>"
+        content: "<p>Winner tok -> demander ce qui s'est passé à une certaine date...</p>"
     },
     {
         type: 'text',
@@ -39,7 +39,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<p>Jour à trouver !</p>"
+        content: "<p>photo de cet été, essayer de mettre les 3 en carroussel</p>"
     },
     {
         type: 'question',
@@ -49,7 +49,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<p>jour à trouver</p>"
+        content: "<p>photo avec Nala</p>"
     },
     {
         type: 'question',
@@ -78,8 +78,10 @@ let DaysGifts = [
         content: "<p>indice parfum</p>"
     },
     {
-        type: 'text',
-        content: "<p>bon pour un ciné</p>"
+        type: 'question',
+        questionContent: "<h1>Question du jour :</h1><p>Quel est le premier film que nous avons vu au cinéma les deux ?</p><h2>Mon coeur n'a jamais battu aussi fort quand tu avais posé ta tête sur mon épaule</h2>",
+        choices: ["cruella"],
+        content: "<p>Bravo, je te propose qu'on remette ça un de ces 4 !</p><p>Prends en photo le bon suivant et sors le quand tu veux !</p><img src='./ressources/img/cinema.jpg'><h2>Bon pour aller au cinéma avec ton amoureux ! ❤</h2>"
     },
     {
         type: 'question',
