@@ -67,7 +67,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<p>livre de cuisine</p>"
+        content: "<h1>Indice pour un de tes cadeaux de Noël</h1><p>Pour celle là je vais pas te donner trop d'indices :</p><p>Tout ce que je peux te dire c'est que quand tu fais à manger et que tu regardes Friends, maintenant tu vas voir double !</p><img src='./ressources/img/friends.webp'>"
     },
     {
         type: 'text',
