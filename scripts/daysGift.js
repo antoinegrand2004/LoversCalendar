@@ -30,8 +30,10 @@ let DaysGifts = [
         content: "<p>Bravo à toi mon amour, je te l'accorde c'était simple ! Mais bravo pour ça !</p><p>En récompense je t'offre ce petit pendentif avec le symbole de l'amour</p><img src='./ressources/img/pendentif.jpeg'><h2>❤</h2>"
     },
     {
-        type: 'text',
-        content: "<p>Winner tok -> demander ce qui s'est passé à une certaine date...</p>"
+        type: 'question',
+        questionContent: "<h1>Question plus difficile aujourd'hui !</h1><p>Qu'est-ce qui s'est passé le 29 octobre 2023 ?</p><p>Indice : ça faisait assez longtemps qu'on attendait ça !</p>",
+        choices: ['gagnant', 'tok', 'toque'],
+        content: "<h1>Bravo pour celle là elle était pas simple !</h1><p>Mais on peut pas rester sur une victoire...</p><img src='./ressources/img/TokWinner.jpeg'><h2>Bon pour remettre la paté à mes parents au tok ! ❤</h2>"
     },
     {
         type: 'text',
@@ -49,7 +51,7 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<p>photo avec Nala</p>"
+        content: "<h1>Jour un petit peu plus triste...</h1><p>Mais il fallait que je ressorte cette belle photo car elle me donne le sourire :</p><img src='./ressources/img/Nala.jpeg'><h2>Mes deux amoureuses sur la même photo ! ❤</h2>"
     },
     {
         type: 'question',
@@ -96,8 +98,10 @@ let DaysGifts = [
         content: "<h1>Bravo à toi !</h1><p>Ce que je te propose c'est de prendre en photo le bon suivant !</p><p>(à n'utiliser que quand il y a de la neige bien sûr...)</p><img src='./ressources/img/raquette.jpg'><h2>Bon pour aller faire de la raquette au ballon d'Alsace ! ❤</h2>"
     },
     {
-        type: 'text',
-        content: "<p>jour à trouver</p>"
+        type: 'question',
+        questionContent: "<h1>Question souvenir !</h1><p>Quel moment important de notre couple s'est passé ce jour là ?</p><img src='./ressources/img/PremièreNuit.jpeg'>",
+        choices: ['première', 'nuit'],
+        content: "<h1>Bravo ! ❤</h1><p>Un de mes meilleurs souvenirs avec toi !</p><img src='./ressources/img/dodoVoiture.jpeg'><h2>Et un autre putin de bon souvenir avec toi ! ❤</h2>"
     },
     {
         type: 'question',
