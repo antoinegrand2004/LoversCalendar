@@ -115,6 +115,6 @@ let DaysGifts = [
     },
     {
         type: 'text',
-        content: "<p>cadeau de Noël</p>"
+        content: "<h1>Et voilà le dernier jour de ce calendrier !</h1><p>J'espère qu'il t'aura plus et que tu en es contente. C'était en soit ton cadeau de Noël car il y a pleins de cadeaux dedans pour toi (et pour nous).</p><img src='./ressources/img/sapin.jpg'><h2>Mais tu me connais j'aime trop t'offir des choses donc des cadeaux t'attendent au pied du sapin ! ❤</h2>"
     },
 ]
